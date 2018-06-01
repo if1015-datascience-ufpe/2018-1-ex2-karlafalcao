@@ -1,7 +1,7 @@
 # Exercício 2
 
 ### Disponibilizado em: 22/05/2018
-### Entrega: 29/05/2018 às 15h
+### Entrega: 01/06/2018 às 23:59h
 
 Trabalharemos questões de ética e privacidade envolvendo data science,
 big data, data analytics e afins neste exercício. Existem diversos textos
